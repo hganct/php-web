@@ -1,0 +1,23 @@
+.bg-header-cus {
+	background-color: #baaf80;
+}
+.bg-footer-cus {
+  background-color: #baaf80;
+  background-image: 
+    url(../../assets/images/bg-footer-left.svg), 
+    url(../../assets/images/bg-footer-right.svg);
+  background-position: 
+    left top, 
+    right bottom; 
+  background-repeat: 
+    no-repeat,
+    no-repeat;
+    background-blend-mode: overlay;
+}
+.bg-copyright-cus {
+	background-color: gold;
+}
+
+.bg-none-cus {
+	background: none;
+}
